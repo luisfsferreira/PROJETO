@@ -20,7 +20,7 @@ O objetivo do projeto consistiu na recolha de informações presentes nos "Abstr
 
   - `Base_de_dados_ESKAPE.mwb`: Base de dados do projeto.
 
-  - `Processamento_de_texto.ipynb`: Scripts que permitem extrair os diferentes parâmetros pretendidos presentes no "Abstracts" recolhidos.
+  - `Processamento_de_texto.ipynb`: Scripts que permitem extrair os diferentes parâmetros pretendidos presentes nos "Abstracts" recolhidos.
 
   - `VOSviewer.doc.txt`: Documento usado para analisar as "Keywords" presentes nos artigos extraídos usando a ferramenta VOSviewer.
   
