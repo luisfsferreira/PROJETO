@@ -1,5 +1,5 @@
 # PROJETO
-Recolha de dados presentes em "Abstracts" PubMed
+Recolha de dados presentes em "Abstracts" do PubMed.
 
 ## Overview
 
