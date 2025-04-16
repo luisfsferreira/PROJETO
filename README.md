@@ -4,7 +4,7 @@ Recolha de dados presentes em "Abstracts" do PubMed.
 ## Overview
 
 
-Este repositório contém os ficheiros utilizados e criados no decorrer do projeto, tais como scripts, base de dados e ficheiros excels.
+Este repositório contém os ficheiros utilizados e criados no decorrer do projeto, tais como as scripts em Pyhton, base de dados SQL e ficheiros excels.
 O objetivo do projeto consistiu na recolha de informações presentes nos "Abstracts" do PubMed, acerca do parâmetros de sensibilidade dos antimicrobianos (MIC, MBEC,...) relativos às bactérias do grupo ESKAPE.
 
 
