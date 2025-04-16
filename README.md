@@ -1,4 +1,4 @@
-# PROJETO
+# Projeto de Bioinformática
 Recolha de dados presentes em "Abstracts" do PubMed.
 
 ## Overview
